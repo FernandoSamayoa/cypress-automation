@@ -19,7 +19,8 @@
   "homepage": "https://github.com/FernandoSamayoa/cypress-automation#readme",
   "devDependencies": {
     "cypress": "^12.13.0",
-    "cypress-iframe": "^1.0.1"
+    "cypress-iframe": "^1.0.1",
+    "neat-csv": "5.1.0"
   },
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^17.2.0",
